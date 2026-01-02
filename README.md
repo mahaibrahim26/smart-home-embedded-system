@@ -17,7 +17,7 @@ The project integrates multiple sensors and actuators into a single IoT system u
 - MQTT-based decoupled architecture
 - Time-series monitoring using Grafana
 
-📄 **Main documentation:**  
-➡️ `Final_Project_Report.pdf`
+**Main documentation:**  
+`Final_Project_Report.pdf`
 
 This project demonstrates embedded systems integration, power distribution design, I²C communication, and system-level behaviour analysis.
